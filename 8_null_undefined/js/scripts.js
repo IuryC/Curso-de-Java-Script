@@ -2,4 +2,4 @@ var nome = null;
 
 nome = "Iury";
 
-console.log(nome);
+console.log(nome); 
